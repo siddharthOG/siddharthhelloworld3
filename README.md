@@ -1,3 +1,3 @@
 # siddharthhelloworld3
-INDIA is a free country.
+FOSS is a subject in computer science
 
